@@ -11,6 +11,7 @@ const Blog = ({data}) => {
           {posts.map(post => (
             <article key={post.id}>
               <h2>{post.frontmatter.title}</h2>
+              <h2>{post.frontmatter.headline}</h2>
               <small>{post.frontmatter.author}, {post.frontmatter.date}</small>
               <p>{post.excerpt}</p>
             </article>
@@ -27,6 +28,7 @@ export const pageQuery = graphql`
           title
           date
           author
+          headline
         }
         excerpt
         id
