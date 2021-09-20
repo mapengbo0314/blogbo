@@ -1,5 +1,5 @@
 import * as React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 
 // study from https://blog.logrocket.com/creating-a-gatsby-blog-from-scratch/
 // styles
@@ -12,6 +12,9 @@ const Home = ({data}) => {
       <title>Home Page</title>
       <h1>{title}</h1>
       <p>{description}</p>
+      <Link to='/blog'>
+        <h2>Blogs</h2>
+      </Link>
       <img alt="umaru-chan" src={data.image.publicURL} />
     </div>
   )
