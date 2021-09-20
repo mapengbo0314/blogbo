@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-template-blog-post-js",
-    "path": "/test-post2/",
-    "result": {"data":{"markdownRemark":{"html":"<h2>Another blog post!</h2>\n<p><em>Very Inspiring quote</em></p>","frontmatter":{"title":"testo blog2","date":"09/18/2021"}}},"pageContext":{"slug":"/test-post2/"}},
-    "staticQueryHashes": []}
