@@ -7,7 +7,7 @@ const Blog = ({data}) => {
     return (
         <div>
           <h1>My blog posts</h1>
-    
+          <Link to="/"><p>Take me home</p></Link>
           {posts.map(post => (
             <article key={post.id}>
               <Link to={post.fields.slug}>

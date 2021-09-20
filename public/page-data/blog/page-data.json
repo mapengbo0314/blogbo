@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blog-js",
+    "path": "/blog/",
+    "result": {"data":{"blog":{"posts":[{"fields":{"slug":"/grace-post/"},"frontmatter":{"title":"Feeling igneous today","date":"09/18/2021","author":"Grace","headline":"Well, another weeek has come and gone. Next week is the first day of fall. Time is just slipping through our fingers, isn't it?"},"excerpt":"Hello and welcome back, and for all of you newcomers, allow me to extend a warm welcome to you. Or a slightly chilly welcome, since autumn…","id":"01247146-c51d-5256-954c-2fcd8a80107d"},{"fields":{"slug":"/test-post/"},"frontmatter":{"title":"testo blog","date":"09/18/2021","author":"bo","headline":"what"},"excerpt":"Intro to my blog post Inspiring quote","id":"9ca82a17-f0a4-5bfc-b71f-e7dd1281f627"},{"fields":{"slug":"/test-post2/"},"frontmatter":{"title":"testo blog2","date":"09/18/2021","author":"bo","headline":"nani"},"excerpt":"Another blog post! Very Inspiring quote","id":"00d30cf9-ecd3-5e21-8afc-8be3e8280d2b"}]}},"pageContext":{}},
+    "staticQueryHashes": []}
