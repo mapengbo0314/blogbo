@@ -1,6 +1,7 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 
+// study from https://blog.logrocket.com/creating-a-gatsby-blog-from-scratch/
 // styles
 
 // markup
